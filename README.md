@@ -1,13 +1,5 @@
 <h2 align="left">Hi there! 👋<br><br>I’m Dhru, a passionate software developer 🚀 who loves creating impactful web applications 💻 and tackling interesting challenges 💡. I’m always eager to learn 📚, improve my skills 🛠️, and build efficient, scalable systems 🌍. I enjoy collaborating with like-minded people 🤝 and believe in writing clean, readable code ✍️.<br><br>Feel free to check out my work and let’s connect! Always open to new ideas and collaborations 💬✨</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruPrajapati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruPrajapati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JiemhiZmEwOWk4OXdpNXJ1NDVqc2gybXBkOHNwa3cwZ3pjYnYwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84CRvhy2DJlwA/giphy.gif"  />
