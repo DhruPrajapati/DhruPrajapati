@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋<br><br>I’m Dhru, a passionate software developer 🚀 who loves creating impactful web applications 💻 and tackling interesting challenges 💡. I’m always eager to learn 📚, improve my skills 🛠️, and build efficient, scalable systems 🌍. I enjoy collaborating with like-minded people 🤝 and believe in writing clean, readable code ✍️.<br><br>Feel free to check out my work and let’s connect! Always open to new ideas and collaborations 💬✨</h2>
+<h2 align="left">Hi there! 👋<br><br>I’m Dhru, a passionate software developer 🚀 who loves creating impactful web applications 💻 and tackling interesting challenges 💡. I’m always eager to learn 📚, improve my skills 🛠️, and build efficient, scalable systems 🌍. I enjoy collaborating with like-minded people 🤝 and believe in writing clean, readable code ✍️.<br><br>Feel free to check out my work and let’s connect! Always open to new ideas & collaborations 💬✨</h2>
 
 
 
